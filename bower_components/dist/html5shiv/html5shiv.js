@@ -8,8 +8,8 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
-
-
+    
+    
     <title>html5shiv/html5shiv.js at master · aFarkas/html5shiv · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -25,9 +25,9 @@
       <meta name="browser-stats-url" content="/_stats">
     <link rel="assets" href="https://assets-cdn.github.com/">
     <link rel="conduit-xhr" href="https://ghconduit.com:25035">
-
+    
     <meta name="pjax-timeout" content="1000">
-
+    
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -35,11 +35,11 @@
       <meta name="google-analytics" content="UA-3769691-2">
 
     <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="5C4BC896:15D4:86C4CD2:54859B45" name="octolytics-dimension-request_id" />
-
+    
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
-
-
+    
+    
     <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
 
 
@@ -48,13 +48,13 @@
 
     <link href="https://assets-cdn.github.com/assets/github-2a88a7bf0ff1b660d7ff29c3220a68751650b37fc53d40d3a7068e835fd213ec.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-ee4170e0122d252766e3edc8c97b6cc6ae381c974013b5047ed5ad8895c56fe0.css" media="all" rel="stylesheet" type="text/css" />
-
-
+    
+    
 
 
     <meta http-equiv="x-pjax-version" content="41958266624bf574cf788503efcc1eef">
 
-
+      
   <meta name="description" content="html5shiv - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.">
   <meta name="go-import" content="github.com/aFarkas/html5shiv git https://github.com/aFarkas/html5shiv.git">
 
@@ -67,13 +67,13 @@
   <body class="logged_out  env-production macintosh vis-public page-blob">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     <div class="wrapper">
+      
+      
+      
+      
 
 
-
-
-
-
-
+      
       <div class="header header-logged-out" role="banner">
   <div class="container clearfix">
 
@@ -124,11 +124,11 @@
       <div id="start-of-content" class="accessibility-aid"></div>
           <div class="site" itemscope itemtype="http://schema.org/WebPage">
     <div id="js-flash-container">
-
+      
     </div>
     <div class="pagehead repohead instapaper_ignore readability-menu">
       <div class="container">
-
+        
 <ul class="pagehead-actions">
 
 
@@ -176,7 +176,7 @@
     <div class="container">
       <div class="repository-with-sidebar repo-container new-discussion-timeline  ">
         <div class="repository-sidebar clearfix">
-
+            
 <nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
      role="navigation"
      data-pjax="#js-repo-pjax-container"
@@ -229,8 +229,8 @@
 </nav>
 
               <div class="only-with-full-nav">
-
-
+                
+  
 <div class="clone-url open"
   data-protocol-type="http"
   data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">
@@ -244,7 +244,7 @@
   </div>
 </div>
 
-
+  
 <div class="clone-url "
   data-protocol-type="subversion"
   data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone">
@@ -285,14 +285,14 @@
         </div><!-- /.repository-sidebar -->
 
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
-
+          
 
 <a href="/aFarkas/html5shiv/blob/2cafa6dc8daa343afe7ce0580b5611ff5f6dfff0/src/html5shiv.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:2105b54721cbad25d7c7ba32a0da5da2 -->
 
 <div class="file-navigation js-zeroclipboard-container">
-
+  
 <div class="select-menu js-menu-container js-select-menu left">
   <span class="minibutton select-menu-button js-menu-target css-truncate" data-hotkey="w"
     data-master-branch="master"
@@ -643,7 +643,7 @@
         </a>
       </div><!-- /.actions -->
     </div>
-
+    
 
   <div class="blob-wrapper data type-javascript">
       <table class="highlight tab-size-8 js-file-line-container">
@@ -2062,7 +2062,8 @@
 
       <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-153d6254b838872c8db73c8bd92905913f6f5b2164b7e40e5292286bd5a39403.js" type="text/javascript"></script>
       <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-328122e491be5b60198f717bbe44dc993b1277b3e7f1b6cd767447d7f58c8784.js" type="text/javascript"></script>
-
-
+      
+      
   </body>
 </html>
+
