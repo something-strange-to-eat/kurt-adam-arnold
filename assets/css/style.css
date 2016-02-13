@@ -60,7 +60,7 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 
 		/*	text-transform: uppercase;*/
 
-			text-transform: lowercase;		
+			text-transform: lowercase;
 			font-variant: small-caps;
 
 		}
@@ -68,7 +68,7 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 		a.inlinelink:hover, a.inlinelink:active{
 			color:#C97100;  /*C98100?*/
 		}
-		
+
 		a.top-border{border-top:solid #C98100 1px;padding-top: 4px;
 }
 		/* text,paragraphs aligns etc*/
@@ -95,7 +95,7 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 			font-size: 90%;
 			margin:0 auto;
 			overflow:hidden;
-			list-style: none;	
+			list-style: none;
 		}
 	/*Ende allgemeingültig*/
 
@@ -110,7 +110,7 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 			background-color: #fff;
 			/*height: 40px;*/
 				background-color: #ddd;
-		/*			padding-bottom: 10px;	wozu? Stört im mobildesign! */ 
+		/*			padding-bottom: 10px;	wozu? Stört im mobildesign! */
 		}
 		.mainheader nav ul{
 			list-style: none;
@@ -124,7 +124,7 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 
 		.mainheader nav ul li{
 			width:25%;
-		
+
 			float:left;
 			display: inline;
 			text-align: center;
@@ -182,7 +182,7 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 
 
 
-		
+
 /* Content */
 
 .maincontent{
@@ -208,7 +208,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 	margin-bottom: 80px;
 
 
-	
+
 	border-left: 6px solid #C97100;
 	padding-left: 30px;
 	box-sizing:border-box;
@@ -241,11 +241,11 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 
 				/*	text-align: center;*/
 
-	border-left:1px solid white;	
+	border-left:1px solid white;
 	/*border-right:1px solid white;	*/
 }
 
-						/* nötig???	*/ 
+						/* nötig???	*/
 								.twocolumn{
 									width:100%;
 								}
@@ -265,7 +265,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 									max-width:100%;
 									max-height: 100%;
 								}
-						/* nötig???	ENDE*/ 
+						/* nötig???	ENDE*/
 
 /*#######	footer	#########*/
 
@@ -295,7 +295,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 }
 .mainfooter ul li a{
 	margin: 0 auto;
-} 
+}
 /*#######	nur für bestimmte (Unter-)Seiten	#########*/
 
 		/* werke */
@@ -308,7 +308,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 				max-width:1000px;
 				margin: 0 auto;
 				margin-bottom: 12px;
-			}	
+			}
 
 			.gemaelde .container-new{
 				max-width: 1000px;
@@ -439,7 +439,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 
 
 @media only screen and (min-width: 600px){
-		
+
 
 		.maincontent article.impressum{text-align: justify;}
 
@@ -453,7 +453,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 
 	h3 {font-size: 112%;margin-top:30px; margin-bottom: 0; /*padding-bottom: 16px;*/}
 	p{max-width: 1000px;text-indent:20px;text-align: justify;	/*margin: 0;*/}
-	p.first{text-indent: 0;}
+	article section section p:first-of-type{text-indent: 0;}
 	/* Bilder */
 	figure .title img{
 		width:100%;
@@ -480,7 +480,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 					border:none;
 			}
 				/*slideshow*/
-				
+
 					.slideshow figure{
 					/*	width:;	*/
 					}
@@ -506,10 +506,10 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 					}
 
 /*obsolet??*/		.slideshow.sculp figure img{
-						
+
 						position: absolute;
 						bottom: 0;
-						left: 0;	
+						left: 0;
 					}
 
 					.slideshow.sculp figure div{
@@ -552,7 +552,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 		.slideshow.paint figure div{
 			max-width: 33.333333333%;
 		}
-		
+
 }
 @media only screen and (min-width: 1354px){
 
@@ -567,7 +567,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 		.slideshow.paint figure div img{
 			/*width:25%;*/
 		}
-		
+
 }
 @media only screen and (min-width: 941px){
 
@@ -580,12 +580,12 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 						position: relative;
 					}
 
-/*					
+/*
 .slideshow.paint figure img{
-						
+
 						position: absolute;
 						bottom: 0;
-						left: 0;	
+						left: 0;
 					}
 
 */
