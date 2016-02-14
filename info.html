@@ -5,6 +5,9 @@ layout: default
 
 
 			{% for article in site.categories.info %}
+				{% assign content = article.content | strip_newlines %}
+				{% if content == "" %}
+				{% else %}
 				<article>
 						<section class="columns bordered">
 							<header>
@@ -22,6 +25,7 @@ layout: default
 
 								</section>
 				</article>
+				{% endif %}
 			{% endfor %}
 
 
