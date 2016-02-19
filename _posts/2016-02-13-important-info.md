@@ -7,6 +7,8 @@ category: important-info
 ---
 Vernissage am 19.02.2016 um 19.00 Uhr
 
+Einführung: Pamela Pachl (Kunsthistorikerin)
+
 Musik: Tabea Luise Simonis (Cello) und Nicolas Arnold (Klavier)
 
 Anschrift: Villa Meixner, Schwetzingerstraße 24, 68782 Brühl
