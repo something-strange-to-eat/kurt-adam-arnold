@@ -5,7 +5,6 @@ title: '"Der Mensch und was ihn bewegt" in der Villa Meixner'
 author: Kurt ADAM Arnold
 category: important-info
 ---
-Vernissage am 19.02.2016 um 19.00 Uhr
 
 Einführung: Pamela Pachl (Kunsthistorikerin)
 
