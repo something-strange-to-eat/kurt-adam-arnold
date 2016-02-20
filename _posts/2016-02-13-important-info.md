@@ -1,5 +1,5 @@
 ---
-announcement: 'Nächste Ausstellung:'
+announcement: 'Aktuelle Ausstellung:'
 title: '"Der Mensch und was ihn bewegt" in der Villa Meixner'
 #date: 13. Februar 2016
 author: Kurt ADAM Arnold
