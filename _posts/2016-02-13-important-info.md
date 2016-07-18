@@ -1,13 +1,13 @@
 ---
-announcement: 'Letzte Ausstellung:'
-title: '"Der Mensch und was ihn bewegt" in der Villa Meixner'
-#date: 13. Februar 2016
+announcement: 'Nächste Ausstellung:'
+title: '"Offenes Atelier: Malerei und Skulptur. Neue und alte Arbeiten."'
+#date: 18. Juli 2016
 author: Kurt ADAM Arnold
 category: important-info
 ---
 
-Einführung: Pamela Pachl (Kunsthistorikerin)
+Im Rahmen des Kultursommers Südhessen (KUSS) findet mein Offenes Atelier am Wochenende des 17. und 18. Septembers statt. Es gibt Live-Musik, Snacks, Getränke und Gespräche über Kunst.
 
-Musik: Tabea Luise Simonis (Cello) und Nicolas Arnold (Klavier)
+Musik: New Way Six (Sa); Nicolas Arnold and friends (So)
 
-Anschrift: Villa Meixner, Schwetzingerstraße 24, 68782 Brühl
+Anschrift: Werkraum in der Illertstraße 11, 68519 Viernheim
