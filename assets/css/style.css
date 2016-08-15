@@ -466,14 +466,24 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 	p{max-width: 1000px;text-indent:20px;text-align: justify;	/*margin: 0;*/}
 	section p:first-of-type{text-indent: 0;}
 	/* Bilder */
-	figure .title img{
+	figure.title img{
 		width:100%;
-
-
 		max-width: 1000px;
 		margin:0 auto;
 	}
-
+	figure.img-in-article{
+		float: left;
+		margin-right: 20px;
+	}
+	figure.img-in-article figcaption{
+		max-width: 400px;
+		font-size: 70%;
+	}
+	figure.img-in-article img{
+		width:100%;
+		max-width: 400px;
+		margin:0 auto;
+	}
 	.profilbild{
 		max-width: 300px;
 	}
