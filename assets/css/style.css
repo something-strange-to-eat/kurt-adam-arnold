@@ -547,6 +547,10 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 						position: absolute;
 						bottom: 0;
 						left: 0;
+
+						/* fix for centering the image in all cases */
+						margin: 0 0 0 -50%;
+						left: 50%;
 					}
 
 					.slideshow.sculp figure div{
@@ -559,6 +563,9 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 					}
 
 
+					.slideshow figure div.twotimes{
+						width: 400px;
+					}
 					.slideshow figure div.threetimes{
 						width: 600px;
 					}
