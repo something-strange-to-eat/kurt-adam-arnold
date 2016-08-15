@@ -101,6 +101,32 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 			overflow:hidden;
 			list-style: none;
 		}
+
+
+
+		figure.img-in-article:nth-of-type(even){
+			float: right;
+			margin:0 0 0 20px;
+			max-width: 40%;
+		}
+		figure.img-in-article:nth-of-type(odd){
+			float: left;
+			margin: 0 20px 0 0;
+			max-width: 40%;
+		}
+		figure.img-in-article figcaption{
+			max-width: 400px;
+			font-size: 70%;
+		}
+		figure.img-in-article img{
+			width:100%;
+			max-width: 400px;
+			margin:0 auto;
+		}
+
+
+
+
 	/*Ende allgemeingültig*/
 
 
@@ -471,19 +497,7 @@ article.columns.bordered{max-width:1000px;margin:0 auto;}
 		max-width: 1000px;
 		margin:0 auto;
 	}
-	figure.img-in-article{
-		float: left;
-		margin-right: 20px;
-	}
-	figure.img-in-article figcaption{
-		max-width: 400px;
-		font-size: 70%;
-	}
-	figure.img-in-article img{
-		width:100%;
-		max-width: 400px;
-		margin:0 auto;
-	}
+
 	.profilbild{
 		max-width: 300px;
 	}
