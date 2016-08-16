@@ -127,7 +127,8 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 		}
 
 .important-info{overflow: hidden;}
-
+.important-info figure{max-width: 100%;width:100%;margin-bottom: 40px;}
+.important-info figure figcaption{max-width: 100%;}
 
 	/*Ende allgemeingültig*/
 
@@ -208,8 +209,11 @@ div.mobile-only{text-align: center;margin:60px auto 20px;}
 			padding: 10px 25px;
 			height:20px;
 		}
+		/* Ende anpassen! */
 
-/* Ende anpassen! */
+
+		.important-info figure{max-width: 40%; margin-bottom: 0;}
+
 }
 
 
