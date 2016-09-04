@@ -1,6 +1,6 @@
 ---
-announcement: '11. SEPT  –  Nächste Ausstellung:'
-title: '"Vernissage: Gratwanderungen - Malerei und Skulptur"'
+announcement: '11. SEPT  –  Vernissage: '
+title: '"Gratwanderungen - Malerei und Skulptur"'
 #date: 18. Juli 2016
 author: Kurt ADAM Arnold
 category: important-info
