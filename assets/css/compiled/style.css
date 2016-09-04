@@ -1049,7 +1049,11 @@ div.container-new img {
           }
 */
 /* messing around with centering methods of the sculpture gallery */
+<<<<<<< HEAD
 /* line 4, ../more-shame.sass */
+=======
+/* line 4, ../_more-shame.sass */
+>>>>>>> gh-pages
 .slideshow.sculp figure img {
   position: absolute;
   bottom: 0;
