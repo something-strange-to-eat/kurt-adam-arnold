@@ -1,5 +1,7 @@
 ---
-announcement: '17. / 18. SEPT  –  Vor Kurzem:<br>'
+jahr: '(2016)'
+announce-date: '17. / 18. SEPT  – '
+announcement: 'Vor Kurzem:<br>'
 title: '"Offenes Atelier: Malerei und Skulptur. Neue und alte Arbeiten. Live-Musik"'
 #date: 18. Juli 2016
 author: Kurt ADAM Arnold
