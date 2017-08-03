@@ -568,8 +568,13 @@ nav.subnav ul li {
   }
 }
 /* line 1, ../components/_lists.scss */
-.vita-list {
+.vita-list li {
   margin-top: 12px;
+}
+
+/* line 5, ../components/_lists.scss */
+.vita-list li span {
+  display: inline-block;
 }
 
 /*! Swipebox v1.2.8 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */
