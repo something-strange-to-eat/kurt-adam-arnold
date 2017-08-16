@@ -16,4 +16,6 @@ Meine Werkräume sind auch dieses Jahr wieder im Rahmen des Kultursommers Südhe
 
 Dazu gibt es Live-Musik, Snacks und diverse Getränke. Näher Infos zur Musik gibt es hier gegen Ende August.
 
-Anschrift: Werkraum in der Illertstraße 11, 68519 Viernheim
+
+Samstag und Sonntag von 16 bis 20 Uhr
+im Werkraum in der Illertstraße 11, 68519 Viernheim
