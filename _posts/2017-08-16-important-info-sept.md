@@ -19,3 +19,5 @@ Dazu gibt es Live-Musik, Snacks und diverse Getränke. Näher Infos zur Musik gi
 
 Samstag und Sonntag von 16 bis 20 Uhr
 im Werkraum in der Illertstraße 11, 68519 Viernheim
+
+Anfahrt mit der Bahn: RNV-Linie 5 bis "Viernheim Hbf", dann mit dem Stadtbus Linie 612 bis Haltestelle "Kettlerstraße".
