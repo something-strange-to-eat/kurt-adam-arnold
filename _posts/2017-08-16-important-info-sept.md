@@ -12,6 +12,8 @@ caption: 'Kommunikative Ebene (2010)'
 #caption: '"Bei der Arbeit…"'
 ---
 
-Meine Werkräume sind auch dieses Jahr wieder im Rahmen des Kultursommers Südhessen für Sie geöffnet. Wir unterhalten uns über Kunst und die Welt. Dazu gibt es Live-Musik, Snacks und diverse Getränke. Näher Infos zur Musik gibt es hier gegen Ende August.
+Meine Werkräume sind auch dieses Jahr wieder im Rahmen des Kultursommers Südhessen für Sie geöffnet. Wir unterhalten uns über Kunst und die Welt.
+
+Dazu gibt es Live-Musik, Snacks und diverse Getränke. Näher Infos zur Musik gibt es hier gegen Ende August.
 
 Anschrift: Werkraum in der Illertstraße 11, 68519 Viernheim
