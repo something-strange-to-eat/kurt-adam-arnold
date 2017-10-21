@@ -6,7 +6,7 @@ title: 'Werkraum in der Illertstraße – Neue und alte Arbeiten. Live-Musik.'
 #date: 18. Juli 2016
 author: Kurt ADAM Arnold
 category: important-info
-image: 'offenes-atelier/kuss2017_1600.jpeg'
+image: 'offenes-atelier/kuss2017c.jpeg'
 caption: 'Offenes Atelier im Rahmen des Kultursommers Südhessen (KUSS) vom September 2017'
 #image: 'IMGP8914_1024.jpeg'
 #caption: '"Bei der Arbeit…"'
