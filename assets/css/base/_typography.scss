@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'Neuton';
+    src: url(../../fonts/Neuton-Regular.ttf) format('truetype');
+}
+
+// @font-face {
+//     font-family: 'Neuton';
+//     src: url(../../fonts/Neuton-Italic.ttf) format('truetype');
+//     font-style: italic, oblique;
+// }
+
 body{
   font-variant-numeric: oldstyle-nums;
   -webkit-font-feature-settings: "onum" 1;
@@ -6,6 +17,12 @@ body{
   -ms-font-feature-settings: "onum" 1;
   -o-font-feature-settings: "onum" 1;
   font-feature-settings: "onum" 1;
+}
+
+p{
+  font-family: 'Neuton', serif;
+  font-size: 1.25em;
+  line-height: 1.4em;
 }
 
 
