@@ -966,11 +966,6 @@ a.top-border {
   .important-info h2 {
     margin-bottom: 40px;
   }
-
-  /* line 14, ../pages/_home.scss */
-  .important-info p {
-    text-align: center;
-  }
 }
 @media only screen and (min-width: 600px) {
   /* line 19, ../pages/_home.scss */
